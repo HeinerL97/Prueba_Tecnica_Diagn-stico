@@ -38,7 +38,6 @@ index1.html
 15. Propiedad Identificador no existe, es id
 
 16. Imagenes de diseño se encontraban corrompidas, se corrige a disenio
-![alt text](test/image-1.png)
 
 17. En la seccion de galeria-work, algunos div tienen mal escrito la propiedad 
 class
@@ -54,7 +53,6 @@ class
 1. ¿Por que hay console.log?
 2. ¿Por que se esta seleccionando los botones btn-header si no se estan utilizando en el main.js?
 3. nav2 deberia ser solid y no transparente, las letras se pueden confundir con el contenido de la pagina. Mala exp de usuario
-![alt text](test/image.png)
 
 
 
